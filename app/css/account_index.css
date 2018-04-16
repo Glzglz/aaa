@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background: url("../img/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;;
+}
+a{
+    list-style: none;
+}
+#title{
+    font-family: 华文行楷;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 150px;
+    color: orange;
+    margin-left: 50px;
+}
+input{
+    width: 95%;
+    background: darkorange;
+    border: 1px darkorange solid;
+    color: #ffffff;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 120px;
+    padding: 8px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+#old{
+    margin-top: 20px;
+}
